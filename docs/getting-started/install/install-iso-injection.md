@@ -4,7 +4,7 @@ icon: material/disc-player
 ---
 
 !!! warning
-    ISO injection is an experimental feature and may encounter bugs. If you experienced any, please report them on our [Issue Tracker](https://github.com/Atlas-OS/Atlas/issues).
+    ISO injection is an experimental feature added in Atlas v0.5.0 and may encounter bugs. If you experienced any, please report them on our [Issue Tracker](https://github.com/Atlas-OS/Atlas/issues).
 
 <!-- --8<-- [start:iso] -->
 ## :material-disc: **1.** Download an ISO
