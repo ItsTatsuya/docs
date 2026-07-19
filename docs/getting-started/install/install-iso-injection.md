@@ -26,33 +26,19 @@ Download a clean Windows ISO from Microsoft, which will be used later in the gui
 1. Select your desired language and click **Confirm**
 1. Click **64-bit Download** (or the Arm64 download button) to begin your download
 
-??? grey-tip "Alternatives"
+??? grey-tip "Alternative: Windows Media Creation Tool (x86_64 only)"
 
-    === "Windows Media Creation Tool (x86_64 only)"
+    <div class="iso-button-container" markdown>
+    [Download Media Creation Tool](https://go.microsoft.com/fwlink/?linkid=2156295){ .iso-button }
+    </div>
 
-        <div class="iso-button-container" markdown>
-        [Download Media Creation Tool](https://go.microsoft.com/fwlink/?linkid=2156295){ .iso-button }
-        </div>
-
-        1. Download the Media Creation Tool using the button above, then open it
-        1. Click the **Accept** button to agree to the Microsoft license terms
-        1. Select **Create installation media (USB flash drive, DVD, or ISO file) for another PC**, click **Next**, and choose:
-            - **Language:** Your desired language
-            - **Edition:** Windows 11
-        1. Choose the **ISO file** option, then choose the download location
-        1. After the ISO has completed downloading, click **Finish**
-
-    === "AME Wizard's ISO downloader"
-        1. Open your web browser, search [`atlasos.net`](https://atlasos.net)
-        1. On the website, click 'Get started', then click **-> Already following the guide?** at the bottom of the pop-up, and download the **Atlas Playbook** and **AME Wizard**
-        1. Extract both downloads to your desktop
-        1. Open `AME Wizard Beta.exe` from the AME Wizard folder
-            1. If there is a warning from SmartScreen that AME Wizard is an [unrecognized application](../../faq/install-faq/ame-wizard-errors/ame-wizard-deleted.md), bypass this warning by clicking **More info** and **Run anyway**
-            1. Click on **Updates** at the top and make sure AME Wizard is up to date
-        1. Click on the **More Options** tab on the left side of the window
-        1. Select **Download ISO** and make sure **Windows 11** is selected, then click **OK**.
-
-        This should download a Windows 11 25H2 ISO.
+    1. Download the Media Creation Tool using the button above, then open it
+    1. Click the **Accept** button to agree to the Microsoft license terms
+    1. Select **Create installation media (USB flash drive, DVD, or ISO file) for another PC**, click **Next**, and choose:
+        - **Language:** Your desired language
+        - **Edition:** Windows 11
+    1. Choose the **ISO file** option, then choose the download location
+    1. After the ISO has completed downloading, click **Finish**
 
 <div class="iso-button-container" markdown>
 [Download Windows 11 ISO](https://www.microsoft.com/en-us/software-download/windows11){ .iso-button }
