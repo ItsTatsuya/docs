@@ -7,7 +7,7 @@ icon: material/disc-player
     ISO injection is an experimental feature added in the Atlas Playbook 0.5.0 release, previous versions do not have this. If you experienced any bug using it, please report them on our [Issue Tracker](https://github.com/Atlas-OS/Atlas/issues).
 
 !!! warning
-    For general users, we only offer support for Atlas Playbook {{ atlas.release }} installed on the latest, non-beta Windows 11 {{ windows.win11.version }} install. If you are on older versions, or have a unsupported Windows install, please follow our [installation guide](before-continuing.md) to get the latest release.
+    For general users, we only offer support for Atlas Playbook {{ atlas.release }} installed on the latest, non-beta Windows 11 {{ windows.win11.version }} install. If you are on older versions, or have an unsupported Windows install, please follow our [installation guide](before-continuing.md) to get the latest release.
 
 <!-- --8<-- [start:iso] -->
 ## :material-disc: **1.** Download an ISO
